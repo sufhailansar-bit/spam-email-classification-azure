@@ -1,17 +1,20 @@
 # Spam Email Classification using Azure ML
 
-This project is developed using Microsoft Azure Machine Learning Designer.
+# AI-Based Spam Email Detection System
 
-Dataset: Custom spam dataset (spam.csv)
+This project was developed using Microsoft Azure Machine Learning Designer.
 
-Algorithm Used: Logistic Regression
+## 🔹 Project Overview
+Built an AI-based Spam Email Classification model using Logistic Regression.
 
-The model classifies emails as Spam or Not Spam using machine learning.
-
-Tools Used:
-- Microsoft Azure ML Studio
-- Azure ML Designer
+## 🔹 Technologies Used
+- Microsoft Azure ML
 - Logistic Regression
+- Data Preprocessing
+- Cloud Deployment
 
-Output:
-Model successfully trained and evaluated in Azure ML.
+## 🔹 Internship
+Completed under AICTE – Microsoft Elevate Initiative (Jan 2026 – Feb 2026)
+
+## 🔹 Project Files
+Project PDF and screenshots are available in this repository.
